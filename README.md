@@ -1,6 +1,7 @@
 Local MultiModal RAG: Text and Images
 
 Here are some examples of what it can do:
+
 -Organizing Information: Quickly sort through documents that include both written content and visuals, like reports or scanned files.
 
 -Support Learning: Help students and educators by retrieving relevant text and images to create engaging materials or presentations.

@@ -7,11 +7,18 @@ Here are some examples of what it can do:
 
 -Creative Thinking: Assist with brainstorming ideas by sourcing text and images that inspire new concepts.
 
-Specifications
+Specifications:
+
 -Sample Document: https://ir.amd.com/financial-information/financial-results
+
 -Document Parser: PyTesseract (text and image from pdf)
+
 -Chunking: RecursiveCharacterTextSplitter (chunks: 400, overlap: 200)
+
 -Embedding Model: ColQWen2, miniLM-l6-v2, CLIP
+
 -Vector Database: pgvector
+
 -MultiModal Model: gemma3:4b
+
 -UI: Streamlit
